@@ -1,16 +1,16 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Journal of a PhD
+email:              getsruthil@gmail.com
+description:        A strictly personal account of my PhD journey!
+author:             Sruthil lal SB 
 baseurl:            ""
 url:                ""
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   SruthilSB
+github_username:    journalofaphd
+facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username: getsruthil@gmail.com
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
