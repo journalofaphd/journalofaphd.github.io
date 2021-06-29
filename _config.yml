@@ -3,7 +3,7 @@ email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 baseurl:            "journalofaphd"
-url:                ""
+url:                "https://journalofaphd.github.io/"
 
 # Social Profiles
 twitter_username:   SBootstrap
