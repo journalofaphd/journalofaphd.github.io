@@ -1,0 +1,12 @@
+<aside class="aside  typeset  aside--{{ include.align | default: 'right' }}">
+
+
+  {% if page.layout == "categories" %}
+    <section class="section  section--category-index">
+      <h3>Index</h3>
+      {% include nav-categories.html %}
+    </section>
+
+  {% endif %}
+
+</aside>

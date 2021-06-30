@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{% include header-categories.html %}
+
+<main class="container-categories">
+
+  <div class="content-categories">
+
+    <article class="article  article--page  typeset">
+
+
+
+      {{ content }}
+
+    </article>
+    {% include post-categories.html %}
+
+  </div>
+
+  {% if page.aside == true %}{% include site-aside.html align="left" %}{% endif %}
+
+</main>
+
+

@@ -1,0 +1,46 @@
+// Structural elements
+.container-categories {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 2%;
+}
+.content-categories {
+  width: 62%;
+}
+
+.aside {
+    max-width: 34%;
+    margin-left: 4%;
+    opacity: 0.5;
+    transition: opacity .1s;
+    .section {
+      position: sticky;
+      top: 0;
+    }
+    &--left {
+      margin-left: 0;
+      margin-right: 4%;
+      order: -1;
+    }
+    &:hover {
+      opacity: 1;
+    }
+}
+
+// Lists
+.list {
+  list-style: none;
+  &--nav {
+    overflow: hidden;
+    margin-bottom: var(--listHeight, 0);
+  }
+  .item--post,
+  .item--result,
+  .item--category {
+    margin-left: 0;
+  }
+}
+
+
