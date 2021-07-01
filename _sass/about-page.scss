@@ -1,0 +1,30 @@
+// Structural elements
+.container-about {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 2%;
+}
+.content-about {
+  width: 62%;
+}
+
+.aside-about {
+    max-width: 34%;
+    margin-left: 4%;
+    opacity: 0.5;
+    transition: opacity .1s;
+    .section {
+      position: sticky;
+      top: 0;
+    }
+    &--left {
+      margin-left: 0;
+      margin-right: 4%;
+      order: -1;
+    }
+    &:hover {
+      opacity: 1;
+    }
+}

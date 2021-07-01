@@ -8,6 +8,10 @@
 .img-fluid {
   @include img-fluid();
 }
+.img-about{
+  border-radius: 50%;
+  float: left;
+}
 
 
 // Image thumbnails
