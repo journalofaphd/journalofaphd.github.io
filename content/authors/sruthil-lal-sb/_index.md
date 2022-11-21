@@ -21,21 +21,21 @@ organizations:
 bio: Test Bio
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Nonlinear Optics
+- Density Functional Theory
+- Time-Dependent Density Functional Theory (TDDFT)
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Nonlinear Optics
+    institution: Pondicherry University
+    year: 2023 (Expected)
+  - course: M. Sc in Physics
+    institution: Pondicherry University
+    year: 2015
+  - course: BSc in Physics
+    institution: Calicut University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
