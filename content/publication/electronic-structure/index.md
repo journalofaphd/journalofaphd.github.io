@@ -1,18 +1,20 @@
 ---
-title: "Testing Links"
+title: "Modified HSE06 functional applied to anatase TiO₂: influence of exchange fraction on the quasiparticle electronic structure and optical response. "
 authors:
 - Sruthil Lal SB
-- Robert Ford
-- Alok Sharan
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Murali D 
+- Matthias Posselt 
+- Assa Aravindh Sasikala Devi
+- Alok Sharan A
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2022-11-21T22:00:00Z"
+doi: "10.1088/2516-1075/ac8f03"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-10-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,17 +23,18 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Electronic Structure.* 2022 Oct 10;4(4):045001."
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The influence of non-interacting Kohn–Sham Hamiltonian on the non-self consistent GW(G 0 W 0) quasiparticle gap and Bethe–Salpeter-equation (BSE) optical spectra of anatase TiO2 is systematically evaluated. G 0 W 0 and BSE calculations are carried out starting with HSE06 (Heyd–Scuseria–Ernzerhof) type functionals containing 20%, 25% and 30% exact Hartree–Fock exchange. The results are also compared against G 0 W 0 + BSE calculations starting from semi-local (PBE) functionals. Our results indicate that the G 0 W 0 and BSE calculations of anatase TiO2 depend critically on the mean-field starting point, wherein its dependence is mainly introduced through the dielectric screening evaluated at the intermediate G 0 W 0. We find that the band dispersion, density of states, and consequently the oscillator strengths of optical excitation and spatial localization of excitons are insensitive to the starting points while the quasiparticle gap, optical gap and exciton binding energies are strongly affected. G 0 W 0 quasiparticle gap of anatase TiO2 computed over hybrid functional starting points is typically overestimated compared to measured values. However, by varying the amount of exact exchange, the dielectric screening can be tuned, and thus the quasiparticle gap. Exciton binding energy is shown to increase in proportion to the increase of the amount of exact exchange. A simple extrapolation of the calculated data leads to the exact match with the recently measured value with 13% of the exact exchange. Systematic analysis of G 0 W 0 + BSE calculation starting from screened hybrid functionals provided in this study forms a reference for all such future calculations of pristine anatase TiO2 and its derivatives.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The influence of non-interacting Kohn–Sham Hamiltonian on the non-self consistent GW(G 0 W 0) quasiparticle gap and Bethe–Salpeter-equation (BSE) optical spectra of anatase TiO2 is systematically evaluated. G 0 W 0 and BSE calculations are carried out starting with HSE06 (Heyd–Scuseria–Ernzerhof) type functionals containing 20%, 25% and 30% exact Hartree–Fock exchange. 
 
 tags:
-- Source Themes
+- TiO₂
 - DFT
+- VASP
 featured: false
 
 # links:
@@ -58,7 +61,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects: []
+projects: ['MBPT']
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -68,4 +71,4 @@ image:
 slides: example
 ---
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
