@@ -1,9 +1,11 @@
 ---
-title: "An example journal article"
+title: "Testing Links"
 authors:
-- admin
+- Sruthil Lal SB
 - Robert Ford
+- Alok Sharan
 author_notes:
+- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
@@ -29,13 +31,14 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
+- DFT
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

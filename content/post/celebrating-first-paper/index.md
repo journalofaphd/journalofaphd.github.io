@@ -31,8 +31,7 @@ image:
   preview_only: false
 
 authors:
-  - admin
-  - sruthil
+  - Sruthil
 
 tags:
   - Academic
