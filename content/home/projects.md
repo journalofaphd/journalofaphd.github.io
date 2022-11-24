@@ -25,12 +25,16 @@ subtitle = "These are all my Projects"
      tag = "*"
   
    [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+     name = "Electronic Structure"
+     tag = "Electronic Structure"
+
+  [[content.filter_button]]
+     name = "Microbiology"
+     tag = "Microbiology"
   
    [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
+     name = "Polarimetry"
+     tag = "Polarimetry"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

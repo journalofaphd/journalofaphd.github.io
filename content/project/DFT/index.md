@@ -2,9 +2,8 @@
 title: DFT simulation of anatase TiO₂
 summary: Optimization of structure of anatase TiO<sub>2</sub> in the Ground state and its electronic and optical properties.
 tags:
-  - DFT
-  - VASP
-date: '2022-04-27T22:00:00Z'
+  - Electronic Structure
+date: '2022-10-24T22:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
