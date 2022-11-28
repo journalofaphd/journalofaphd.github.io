@@ -1,6 +1,6 @@
 ---
 title: Many-Body Perturbation Theory Calculations of Anatase TiO₂
-summary: An example of using the in-built project page.
+summary: Calculation of electronic structure and optical properties of anatase TiO₂ using Green's function based methods. 
 tags:
   - Electronic Structure
 date: '2022-11-24T00:00:00Z'
@@ -9,7 +9,7 @@ date: '2022-11-24T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Many-Body Perturbation Theory
   focal_point: Smart
 
 # links:

@@ -9,7 +9,7 @@ date: '2022-10-24T22:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Effective mass of electrons in TiO₂ and their spatial localization. 
   focal_point: Smart
 
 # links:

@@ -1,9 +1,9 @@
 ---
 title: Celebrating First Paper Publication
-subtitle: This is how proud I am of my first research publication. I am treating myself with a custom-made gift..
+subtitle: This is how proud I am of my first research publication. I am treating myself with a custom-made gift...
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything.
+summary: This is how proud I am of my first research publication. I am treating myself with a custom-made gift...The paper went through countless revisions and many rejections before finding a venue for publication. As this work came to fruition, it brought significant personal and professional transformation—shoutouts to all who have been a part of this challenging but satisfying journey to fruition.
 
 
 # Link this post with a project

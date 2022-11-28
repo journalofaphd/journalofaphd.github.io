@@ -1,15 +1,16 @@
 ---
 title: Time-Dependent Density Functional Theory
-summary: An example of using the in-built project page.
+summary: Simulating laser-driven electron dynamics in solids using TDDFT
 tags:
   - Electronic Structure
+  - TDDFT
 date: '2022-11-24T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: TiO₂ interacting with a laser pulse
   focal_point: Smart
 
 # links:
@@ -30,12 +31,6 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The field induced changes of the electronic structure affect the optical properties of the medium; the external force polarizes the material and induces oscillatory motion of the excited carriers. The oscillating dipoles emit a polarization wave which can modify temporal and spatial properties of the incident field. For sufficiently strong perturbing fields the polarization response of the medium becomes nonlinear. The nonlinear contribution to the polarization gives rise to a variety of nonlinear optical phenomena. This chapter discusses theoretical description of nonlinear optical pulse propagation in materials and experimental probes to investigate them. 	
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Laser-matter interaction dynamics involves the the excitation of the particle-hole pair. The particle and hole carriers affects the electromagnetic response of the material, screening the field depending on its density. These aspects of electron dynamics are included within the framework of time-dependent density functional theory (TDDFT). TDDFT is fully quantum mechanical and does not require any assumptions about the dynamics. The electronic motion within TDDFT is described by the time-dependent Kohn-Sham equation (TDKS) for the evolution of single particle orbitals (Kohn-Sham orbitals). TDKS can be viewed as an alternative formulation of time-dependent quantum mechanics but, in contrast to the normal approach that relies on wave-functions and on the many-body Schrödinger equation, its basic variable is the one-body electron density. From the density obtained by TDKS, we obtain the time-dependent polarizability p(t) of a system with a given external time-dependent potential. p(t) essentially contain all information of the system interacting with the external field. We apply TDDFT to describe the nonlinear weak-field and non-perturbatvie electron dynamics of TiO2 induced by intense ultrashort laser pulses.
