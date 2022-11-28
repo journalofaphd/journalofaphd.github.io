@@ -12,9 +12,9 @@ authors:
 - Alok Sharan A
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: "2022-11-21T22:00:00Z"
 doi: 'https://doi.org/10.1063/5.0017111'
@@ -63,7 +63,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Optical absorption spectrum of titanium dioxide'
   focal_point: ''
   preview_only: false
 

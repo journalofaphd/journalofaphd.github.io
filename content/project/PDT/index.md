@@ -9,6 +9,7 @@ date: '2022-11-24T00:00:00Z'
 external_link: ''
 
 image:
+  placement: 3
   caption: Biofouling 35.1 (2019), 89-103.
   focal_point: Smart
 

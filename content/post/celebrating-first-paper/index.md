@@ -21,6 +21,12 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
+# Show a link to the next article in the series?
+pager: true
+
+# Show breadcrumb navigation?
+show_breadcrumb: true
+
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

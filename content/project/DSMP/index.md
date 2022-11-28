@@ -1,6 +1,6 @@
 ---
 title: Stokes-Mueller Polarimetry
-summary: An example of using the in-built project page.
+summary: We use the double Stokes–Mueller polarimetry (DSMP) technique, to characterize a large size (3x3x5 mm) Potassium titanyl phosphate (KTP) crystal. The crystal undergoes second harmonic generation with type II phase matching. The study of standard KTP crystal using the DSMP technique helps to validate the e±ciency of this technique.
 tags:
   - Polarimetry
 date: '2022-11-24T00:00:00Z'
@@ -9,6 +9,7 @@ date: '2022-11-24T00:00:00Z'
 external_link: ''
 
 image:
+  placement: 3
   caption: Stokes-Mueller POlarimetry of KTP crystal
   focal_point: Smart
 

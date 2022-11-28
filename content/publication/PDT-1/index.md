@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Int J Nanomedicine. 2019 May 27;14:3861-3874'
   focal_point: ""
   preview_only: false
 

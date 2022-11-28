@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Photodiagnosis and photodynamic therapy, 24 (2018), 300-310'
   focal_point: ""
   preview_only: false
 
