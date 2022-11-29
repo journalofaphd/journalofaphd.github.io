@@ -1,5 +1,5 @@
 ---
-title: Phtodynamic Therapy
+title: Photodynamic Therapy
 summary: Antimicrobial photodynamic therapy (aPDT) is an emerging strategy to treat antibiotic resistant microorganisms.
 tags:
   - Microbiology
