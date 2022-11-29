@@ -10,10 +10,10 @@ summary: This is how proud I am of my first research publication. I am treating 
 projects: []
 
 # Date published
-date: '2022-10-21T00:00:00Z'
+date: '2022-11-29T01:00:00Z'
 
 # Date updated
-lastmod: '2022-10-21T00:00:00Z'
+lastmod: '2022-11-29T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
