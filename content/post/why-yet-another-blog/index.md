@@ -1,6 +1,6 @@
 ---
 title: The First Post:- Why yet another Ph. D. blog?
-subtitle: 
+subtitle: In my opinion, everyone who is undergoing a Ph. D. must write their views and experiences somewhere. Researchers are trained to be masters of the most advanced form of documenting scientifc knowledge. Yet, I wonder, why don't we feel the need to document our experiences and acquired wisdom as much? I think it is as important as documenting science.  
 
 
 # Summary for listings and search engines
@@ -51,9 +51,7 @@ categories:
   - Academic
 ---
 ## Putting Together 
-After my profiles on researchgate, LinkedIn, Google scholar, twitter, orcid, academia...I can't wait to announce to you that I have finally put together a personal website and blog. It is primarily aimed as a platform to present my work and life as a mediocre Ph. D. researcher, to rant on about experiement that I could not do, to complain about having too much tea everyday, to boast about how I celebrate little wins, and finally for little **self promotion**. This is essentially going to be a place where I put down capsules of wisdom that crystallized in me during my stint a researcher. Being a first generation individual from my family to have pursued the hughest degree, I had my share of challenges along the way. I genuinely feel that I should pass on my wisdom so that another first generation would not strugle as much. 
-
-Why name Journal of a Ph. D. ?
+After my profiles on researchgate, LinkedIn, Google scholar, twitter, orcid, academia...I can't wait to tell you that I have finally put together a personal website and blog. It is primarily aimed as a platform to present my work and life as a mediocre Ph. D. researcher, sometimes to tell the world how proud I am about my academic journey, to boast about how I celebrate little wins etc..and other times to rant on about experiement that I could not do, to complain about having too much tea everyday ans so on. On the other hand, the webpage has been put up here for little **self promotion** too. This is essentially going to be a place to put down capsules of wisdom that crystallized in me during my stint a researcher. That makes the title of the site **Journal of a Ph. D.** an appropriate one. Being a first generation individual from my family to have pursued the highest degree, I had my share of challenges along the way. I genuinely feel that I should pass on my wisdom so that successive generations would not strugle as much. After all that's what we always say-**on the shoulders of giants** :innocent:
 
 ## Being helpful
 **It feels so good to be helpful**. I envisage this would become a place where my shared experiences and knowledge will become useful to younger generation of researchers.  I have asked people, emailed professors/authors corresponding authors directly and often got positive responses. It feels so good when you feel your concerns are heard. On researchgate I often get messages asking for help to specific details of practical DFT calculations. I have taken time and energy to prepare detailed answers to adress their queries. At the end we feel so grateful of heing able to help someone. I will also be putting togethor such techincal details of my expertise here. It is an attempt to organize my thoughts and experiences with the expectation that someone at a different of the world might find it useful someday. 
