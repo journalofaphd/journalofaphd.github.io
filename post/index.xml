@@ -1,4 +1,147 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Journal of a Ph. D.</title><link>https://journalofaphd.github.io/post/</link><atom:link href="https://journalofaphd.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 01:00:00 +0000</lastBuildDate><image><url>https://journalofaphd.github.io/images/icon_hua2c43153bc111f15e6525a6607317778_4178726_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://journalofaphd.github.io/post/</link></image><item><title>Celebrating First Paper Publication</title><link>https://journalofaphd.github.io/post/celebrating-first-paper/</link><pubDate>Tue, 29 Nov 2022 01:00:00 +0000</pubDate><guid>https://journalofaphd.github.io/post/celebrating-first-paper/</guid><description>&lt;h2 id="celebrating-small-wins">Celebrating Small Wins&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Journal of a Ph. D.</title><link>https://journalofaphd.github.io/post/</link><atom:link href="https://journalofaphd.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 17:12:47 +0530</lastBuildDate><image><url>https://journalofaphd.github.io/images/icon_hua2c43153bc111f15e6525a6607317778_4178726_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://journalofaphd.github.io/post/</link></image><item><title>Power Tools for discovering Papers that matter</title><link>https://journalofaphd.github.io/post/literature-power-tools/</link><pubDate>Sun, 11 Dec 2022 17:12:47 +0530</pubDate><guid>https://journalofaphd.github.io/post/literature-power-tools/</guid><description>&lt;h2 id="losing-yourself-in-the-sea-of-papers">Losing yourself in the sea of papers?&lt;/h2>
+&lt;p>Reading research papers is tough. What is even tougher is finding those papers that are more &amp;ldquo;relevant to us. I have had the terrible habit of forcefully reading papers from title to the last line of conclusion just before even deciding is it to keep or forgo. It was a time when I felt all papers are important for my work, and I should give it a read. With the pressure mounting to be on top of latest developments in your field I had signed up email alerts form almost all publishers in my field. Someone should tell us all the papers that hits your inbox as alerts are not going to matter for you. We will only need some of those thousands of papers that pour into your inbox.
+Unfortunately, things were not going according to plan. Quite soon, the newbie&amp;rsquo;s excitement of delving into the unknown jargons in the papers turned into exhaustion and desperation. I was slipping and losing to the sea of infromation. It is so easy to slip into the sea of information, not getting anywhere far from introduction of papers.&lt;/p>
+&lt;p>Here are some of the tools that will help you streamline the process of understanding the gist of papers without completely reading it.&lt;/p>
+&lt;h4 id="connected-papers">Connected papers&lt;/h4>
+&lt;!-- ![MarineGEO circle logo](featured.jpg "Paper Header printed on a Cup") -->
+&lt;p>To explore the connected papers in a visual graph
+Arrange papers based on their similarity.
+Sort prior works and derivative works&lt;/p>
+&lt;!--
+&lt;link rel="stylesheet" href=https://journalofaphd.github.io/css/hugo-easy-gallery.css />
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" data-size="1920x928">
+&lt;img itemprop="thumbnail" src="https://journalofaphd.github.io/connected_papers/connected_papers_1-thumb.jpg" alt="Sydney Harbour"/>
+&lt;/div>
+&lt;a href="https://journalofaphd.github.io/connected_papers/connected_papers_1.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sydney Harbour&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+-->
+&lt;p>
+&lt;div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('https://journalofaphd.github.io/img/connected_papers/connected_papers_1-thumb.jpg');" >
+&lt;img itemprop="thumbnail" src="https://journalofaphd.github.io/img/connected_papers/connected_papers_1-thumb.jpg" alt="Connected papers 1" />
+&lt;/div>
+&lt;figcaption>
+&lt;p>Connected papers 1&lt;/p>
+&lt;/figcaption>
+&lt;a href="https://journalofaphd.github.io/img/connected_papers/connected_papers_1.jpg" itemprop="contentUrl">&lt;/a>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('https://journalofaphd.github.io/img/connected_papers/connected_papers_2-thumb.jpg');" >
+&lt;img itemprop="thumbnail" src="https://journalofaphd.github.io/img/connected_papers/connected_papers_2-thumb.jpg" alt="Connected papers 2" />
+&lt;/div>
+&lt;figcaption>
+&lt;p>Connected papers 2&lt;/p>
+&lt;/figcaption>
+&lt;a href="https://journalofaphd.github.io/img/connected_papers/connected_papers_2.jpg" itemprop="contentUrl">&lt;/a>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous">&lt;/script>
+&lt;script src=https://journalofaphd.github.io/js/load-photoswipe.js>&lt;/script>
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous">&lt;/script>
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous">&lt;/script>
+&lt;div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+&lt;div class="pswp__bg">&lt;/div>
+&lt;div class="pswp__scroll-wrap">
+&lt;div class="pswp__container">
+&lt;div class="pswp__item">&lt;/div>
+&lt;div class="pswp__item">&lt;/div>
+&lt;div class="pswp__item">&lt;/div>
+&lt;/div>
+&lt;div class="pswp__ui pswp__ui--hidden">
+&lt;div class="pswp__top-bar">
+&lt;div class="pswp__counter">&lt;/div>
+&lt;button class="pswp__button pswp__button--close" title="Close (Esc)">&lt;/button>
+&lt;button class="pswp__button pswp__button--share" title="Share">&lt;/button>
+&lt;button class="pswp__button pswp__button--fs" title="Toggle fullscreen">&lt;/button>
+&lt;button class="pswp__button pswp__button--zoom" title="Zoom in/out">&lt;/button>
+&lt;div class="pswp__preloader">
+&lt;div class="pswp__preloader__icn">
+&lt;div class="pswp__preloader__cut">
+&lt;div class="pswp__preloader__donut">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+&lt;div class="pswp__share-tooltip">&lt;/div>
+&lt;/div>
+&lt;button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+&lt;/button>
+&lt;button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+&lt;/button>
+&lt;div class="pswp__caption">
+&lt;div class="pswp__caption__center">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/p>
+&lt;!--
+&lt;div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/connected_papers/connected_papers_1-thumb.jpg');" data-size="1920x928">
+&lt;img itemprop="thumbnail" src="https://journalofaphd.github.io/connected_papers/connected_papers_1-thumb.jpg" alt="Sydney Harbour"/>
+&lt;/div>
+&lt;a href="https://journalofaphd.github.io/connected_papers/connected_papers_1.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sydney Harbour&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/connected_papers/connected_papers_2-thumb.jpg');" data-size="1920x928">
+&lt;img itemprop="thumbnail" src="https://journalofaphd.github.io/connected_papers/connected_papers_2-thumb.jpg" alt="Sydney Harbour"/>
+&lt;/div>
+&lt;a href="https://journalofaphd.github.io/connected_papers/connected_papers_2.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sydney Harbour&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+-->
+&lt;h4 id="scite">Scite&lt;/h4>
+&lt;p>Smart Citations allow users to see how a publication has been cited by providing the context of the citation and a classification describing whether it provides supporting or contrasting evidence for the cited claim. Mentioning, supporting or contradicting the citing paper&lt;/p>
+&lt;div class="box fancy-figure caption-position-bottom caption-effect-appear" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://journalofaphd.github.io/img/connected_papers/connected_papers_2.jpg" alt="Sydney Harbour"/>
+&lt;/div>
+&lt;a href="https://journalofaphd.github.io/img/connected_papers/connected_papers_2.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sydney Harbour&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;h4 id="scholarcy-web-plugin">Scholarcy Web Plugin&lt;/h4>
+&lt;p>The AI-powered article summarizer - a quick snapshot and summary of every paer to figure out which one is the most important paper for you. More than what is given in the abstract and introduction- scholarcy give you contenxt without actually skimming through all of them.&lt;/p>
+&lt;h4 id="open-knowledge-map">Open Knowledge Map&lt;/h4>
+&lt;p>A Knowledge Map presents you with a topical overview for your search query based on the 100 most relevant documents matching your query.&lt;/p>
+&lt;p>We use text similarity to create the knowledge maps. The algorithm groups those documents together that have many words in common.&lt;/p>
+&lt;p>The visualization is intended to give you a head start on your scholarly search. You can identify relevant areas at a glance and documents related to them.&lt;/p>
+&lt;h4 id="incitefulxyz">Inciteful.xyz&lt;/h4>
+&lt;p>Build a network of academic papers and we&amp;rsquo;ll analyze the network to help you discover the most relevant literature.&lt;/p>
+&lt;p>Title, DOI, or even import a BibTeX file.
+Builds a graph of all connecte papers, similar papers, a list highlighting the most important papers in the graph, top authors and top journal that are part of the graph just generated.&lt;/p>
+&lt;h4 id="researchrabbit">Researchrabbit&lt;/h4>
+&lt;p>Organize them into collections and categories, sync seamlessley between zotero and researchrabbit&lt;/p>
+&lt;p>Add papers by any first deraching them with title, any identifier (DOI, PMID) or any keywords, uploading a BibTeX or RIS file, import your entire zotero collection&lt;/p>
+&lt;p>FIlter them based on connection with other cited or related wor, timeline, authors etc.&lt;/p></description></item><item><title>Celebrating First Paper Publication</title><link>https://journalofaphd.github.io/post/celebrating-first-paper/</link><pubDate>Tue, 29 Nov 2022 01:00:00 +0000</pubDate><guid>https://journalofaphd.github.io/post/celebrating-first-paper/</guid><description>&lt;h2 id="celebrating-small-wins">Celebrating Small Wins&lt;/h2>
 &lt;p>The paper went through countless revisions and many rejections before finding a venue for publication. As this work came to fruition, it brought significant personal and professional transformation—shoutouts to all who have been a part of this challenging but satisfying journey to fruition.&lt;/p>
 &lt;p>For the most part, I was battling self-doubt and writer’s block. Each time, I forced myself to read the draft one last time. By the hundredth time, I had learned my paper word by word by heart so that even embarrassing mistakes missed my eyes. Having seen no improvement, I lost interest many times and procrastinated. I re-challenged myself.&lt;/p>
 &lt;p>&lt;img src="paper_printed_cup.jpg" alt="MarineGEO circle logo" title="Paper Header printed on a Cup">
@@ -18,4 +161,432 @@ If I had to pick a few things that transformed me personally and professionally,
 &lt;h2 id="putting-together-a-website-from-scratch">Putting together a website from scratch&lt;/h2>
 &lt;p>Setting up a personal website like this is not a difficult task nowadays. This site has been made using
 &lt;a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo&amp;rsquo;s&lt;/a> static website generator with no HTML coding. Like Hugo, many other frameworks exist, using which you can make stunning personal websites. I have used the
-&lt;a href="https://github.com/wowchemy/starter-hugo-academic" target="_blank" rel="noopener">academic theme for Hugo&lt;/a> for making this site. Once it is set up, a few lines of code will only take to host the site in GitHub. It is super easy. Why don&amp;rsquo;t you make one for yourself?!&lt;/p></description></item></channel></rss>
+&lt;a href="https://github.com/wowchemy/starter-hugo-academic" target="_blank" rel="noopener">academic theme for Hugo&lt;/a> for making this site. Once it is set up, a few lines of code will only take to host the site in GitHub. It is super easy. Why don&amp;rsquo;t you make one for yourself?!&lt;/p></description></item><item><title>Writing technical content in Academic</title><link>https://journalofaphd.github.io/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://journalofaphd.github.io/post/writing-technical-content/</guid><description>&lt;h2>Table of Contents&lt;/h2>
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#examples">Examples&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#code">Code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#math">Math&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#multiline-equations">Multiline equations&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#diagrams">Diagrams&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#alerts">Alerts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#todo-lists">Todo lists&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#tables">Tables&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#asides">Asides&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#spoilers">Spoilers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#icons">Icons&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;p>Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p>
+&lt;p>&lt;strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong>&lt;/p>
+&lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p>
+&lt;h2 id="examples">Examples&lt;/h2>
+&lt;h3 id="code">Code&lt;/h3>
+&lt;p>Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code>highlight&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file.&lt;/p>
+&lt;pre>&lt;code>```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-python">import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+&lt;/code>&lt;/pre>
+&lt;h3 id="math">Math&lt;/h3>
+&lt;p>Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code>math&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file.&lt;/p>
+&lt;p>To render &lt;em>inline&lt;/em> or &lt;em>block&lt;/em> math, wrap your LaTeX math with &lt;code>$...$&lt;/code> or &lt;code>$$...$$&lt;/code>, respectively.&lt;/p>
+&lt;p>Example &lt;strong>math block&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code class="language-tex">$$\gamma_{n} = \frac{
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;p>$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$&lt;/p>
+&lt;p>This is inline: $\mathbf{y} = \mathbf{X}\boldsymbol\beta + \boldsymbol\varepsilon$&lt;/p>
+&lt;p>Example &lt;strong>inline math&lt;/strong> &lt;code>$\nabla F(\mathbf{x}_{n})$&lt;/code> renders as $\nabla F(\mathbf{x}_{n}) \partial$.&lt;/p>
+&lt;h3 id="multiline-equations">Multiline equations&lt;/h3>
+&lt;p>The standard LaTeX line break consisting of 2 backslashes needs to be replaced with 6 backslashes:
+Example &lt;strong>multi-line math&lt;/strong> using the &lt;code>\\\\&lt;/code> math linebreak:&lt;/p>
+&lt;pre>&lt;code class="language-tex">$$f(k;p\_0^\*) = \begin{cases} p\_0^\* &amp;amp; \text{if }k=1, \\\\\\
+1-p\_0^\* &amp;amp; \text {if }k=0.\end{cases}$$
+&lt;/code>&lt;/pre>
+&lt;p>rendered as&lt;/p>
+&lt;p>$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\\
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p>
+&lt;h3 id="diagrams">Diagrams&lt;/h3>
+&lt;h3 id="alerts">Alerts&lt;/h3>
+&lt;div class="alert alert-note">
+&lt;div>
+Here&amp;rsquo;s a tip or note&amp;hellip;
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-warning">
+&lt;div>
+Here&amp;rsquo;s some important information&amp;hellip;
+&lt;/div>
+&lt;/div>
+&lt;p>Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code>diagram&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file or by adding &lt;code>diagram: true&lt;/code> to your page front matter.&lt;/p>
+&lt;p>An example &lt;strong>flowchart&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid">graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+&lt;/code>&lt;/pre>
+&lt;p>An example &lt;strong>sequence diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid">sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/code>&lt;/pre>
+&lt;p>An example &lt;strong>Gantt diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+gantt
+section Section
+Completed :done, des1, 2014-01-06,2014-01-08
+Active :active, des2, 2014-01-07, 3d
+Parallel 1 : des3, after des1, 1d
+Parallel 2 : des4, after des1, 1d
+Parallel 3 : des5, after des3, 1d
+Parallel 4 : des6, after des4, 1d
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid">gantt
+section Section
+Completed :done, des1, 2014-01-06,2014-01-08
+Active :active, des2, 2014-01-07, 3d
+Parallel 1 : des3, after des1, 1d
+Parallel 2 : des4, after des1, 1d
+Parallel 3 : des5, after des3, 1d
+Parallel 4 : des6, after des4, 1d
+&lt;/code>&lt;/pre>
+&lt;p>An example &lt;strong>class diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+&amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+int id
+size()
+}
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid">classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+&amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+int id
+size()
+}
+&lt;/code>&lt;/pre>
+&lt;p>An example &lt;strong>state diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid">stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+&lt;/code>&lt;/pre>
+&lt;h3 id="todo-lists">Todo lists&lt;/h3>
+&lt;p>You can even write your todo lists in Academic too:&lt;/p>
+&lt;pre>&lt;code class="language-markdown">- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write math example&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write diagram example&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Do something else&lt;/li>
+&lt;/ul>
+&lt;h3 id="tables">Tables&lt;/h3>
+&lt;p>Represent your data in tables:&lt;/p>
+&lt;pre>&lt;code class="language-markdown">| First Header | Second Header |
+| ------------- | ------------- |
+| Content Cell | Content Cell |
+| Content Cell | Content Cell |
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>First Header&lt;/th>
+&lt;th>Second Header&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Content Cell&lt;/td>
+&lt;td>Content Cell&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Content Cell&lt;/td>
+&lt;td>Content Cell&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="asides">Asides&lt;/h3>
+&lt;p>Academic supports a
+&lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts" target="_blank" rel="noopener">shortcode for asides&lt;/a>, also referred to as &lt;em>notices&lt;/em>, &lt;em>hints&lt;/em>, or &lt;em>alerts&lt;/em>. By wrapping a paragraph in &lt;code>{{% alert note %}} ... {{% /alert %}}&lt;/code>, it will render as an aside.&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{% alert note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /alert %}}
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/div>
+&lt;/div>
+&lt;h3 id="spoilers">Spoilers&lt;/h3>
+&lt;p>Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{&amp;lt; spoiler text=&amp;quot;Click to view the spoiler&amp;quot; &amp;gt;}}
+You found me!
+{{&amp;lt; /spoiler &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="spoiler " >
+&lt;p>
+&lt;a class="btn btn-primary" data-toggle="collapse" href="#spoiler-4" role="button" aria-expanded="false" aria-controls="spoiler-4">
+Click to view the spoiler
+&lt;/a>
+&lt;/p>
+&lt;div class="collapse card " id="spoiler-4">
+&lt;div class="card-body">
+You found me!
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="icons">Icons&lt;/h3>
+&lt;p>Academic enables you to use a wide range of
+&lt;a href="https://sourcethemes.com/academic/docs/page-builder/#icons" target="_blank" rel="noopener">icons from &lt;em>Font Awesome&lt;/em> and &lt;em>Academicons&lt;/em>&lt;/a> in addition to
+&lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis" target="_blank" rel="noopener">emojis&lt;/a>.&lt;/p>
+&lt;p>Here are some examples using the &lt;code>icon&lt;/code> shortcode to render icons:&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{&amp;lt; icon name=&amp;quot;terminal&amp;quot; pack=&amp;quot;fas&amp;quot; &amp;gt;}} Terminal
+{{&amp;lt; icon name=&amp;quot;python&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} Python
+{{&amp;lt; icon name=&amp;quot;r-project&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} R
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;p>
+&lt;i class="fas fa-terminal pr-1 fa-fw">&lt;/i> Terminal&lt;br>
+&lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Python&lt;br>
+&lt;i class="fab fa-r-project pr-1 fa-fw">&lt;/i> R&lt;/p>
+&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item><item><title>Display Jupyter Notebooks with Academic</title><link>https://journalofaphd.github.io/post/jupyter/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://journalofaphd.github.io/post/jupyter/</guid><description>&lt;pre>&lt;code class="language-python">from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+&lt;/code>&lt;/pre>
+&lt;p>&lt;img src="./index_1_0.png" alt="png">&lt;/p>
+&lt;pre>&lt;code class="language-python">print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code>&lt;/pre>
+&lt;pre>&lt;code>Welcome to Academic!
+&lt;/code>&lt;/pre>
+&lt;h2 id="install-python-and-jupyterlab">Install Python and JupyterLab&lt;/h2>
+&lt;p>
+&lt;a href="https://www.anaconda.com/distribution/#download-section" target="_blank" rel="noopener">Install Anaconda&lt;/a> which includes Python 3 and JupyterLab.&lt;/p>
+&lt;p>Alternatively, install JupyterLab with &lt;code>pip3 install jupyterlab&lt;/code>.&lt;/p>
+&lt;h2 id="create-or-upload-a-jupyter-notebook">Create or upload a Jupyter notebook&lt;/h2>
+&lt;p>Run the following commands in your Terminal, substituting &lt;code>&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code> and &lt;code>&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code> with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p>
+&lt;pre>&lt;code class="language-bash">mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code>&lt;/pre>
+&lt;p>The &lt;code>jupyter&lt;/code> command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p>
+&lt;h2 id="edit-your-post-metadata">Edit your post metadata&lt;/h2>
+&lt;p>The first cell of your Jupter notebook will contain your post metadata (
+&lt;a href="https://sourcethemes.com/academic/docs/front-matter/" target="_blank" rel="noopener">front matter&lt;/a>).&lt;/p>
+&lt;p>In Jupter, choose &lt;em>Markdown&lt;/em> as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p>
+&lt;pre>&lt;code>---
+title: My post's title
+date: 2019-09-01
+# Put any other Academic metadata here...
+---
+&lt;/code>&lt;/pre>
+&lt;p>Edit the metadata of your post, using the
+&lt;a href="https://sourcethemes.com/academic/docs/managing-content" target="_blank" rel="noopener">documentation&lt;/a> as a guide to the available options.&lt;/p>
+&lt;p>To set a
+&lt;a href="https://sourcethemes.com/academic/docs/managing-content/#featured-image" target="_blank" rel="noopener">featured image&lt;/a>, place an image named &lt;code>featured&lt;/code> into your post&amp;rsquo;s folder.&lt;/p>
+&lt;p>For other tips, such as using math, see the guide on
+&lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">writing content with Academic&lt;/a>.&lt;/p>
+&lt;h2 id="convert-notebook-to-markdown">Convert notebook to Markdown&lt;/h2>
+&lt;pre>&lt;code class="language-bash">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code>&lt;/pre>
+&lt;h2 id="example">Example&lt;/h2>
+&lt;p>This post was created with Jupyter. The orginal files can be found at
+&lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter" target="_blank" rel="noopener">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Academic: the website builder for Hugo</title><link>https://journalofaphd.github.io/post/getting-started/</link><pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate><guid>https://journalofaphd.github.io/post/getting-started/</guid><description>&lt;p>&lt;strong>Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em>widgets&lt;/em>, &lt;em>themes&lt;/em>, and &lt;em>language packs&lt;/em> included!&lt;/strong>&lt;/p>
+&lt;p>
+&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or
+&lt;a href="https://sourcethemes.com/academic/#expo" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
+&lt;ul>
+&lt;li>👉
+&lt;a href="#install">&lt;strong>Get Started&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚
+&lt;a href="https://sourcethemes.com/academic/docs/" target="_blank" rel="noopener">View the &lt;strong>documentation&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬
+&lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Ask a question&lt;/strong> on the forum&lt;/a>&lt;/li>
+&lt;li>👥
+&lt;a href="https://spectrum.chat/academic" target="_blank" rel="noopener">Chat with the &lt;strong>community&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter:
+&lt;a href="https://twitter.com/source_themes" target="_blank" rel="noopener">@source_themes&lt;/a>
+&lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a>
+&lt;a href="https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd" target="_blank" rel="noopener">#MadeWithAcademic&lt;/a>&lt;/li>
+&lt;li>💡
+&lt;a href="https://github.com/gcushen/hugo-academic/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating?&lt;/strong> View the
+&lt;a href="https://sourcethemes.com/academic/docs/update/" target="_blank" rel="noopener">Update Guide&lt;/a> and
+&lt;a href="https://sourcethemes.com/academic/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
+&lt;li>❤️ &lt;strong>Support development&lt;/strong> of Academic:
+&lt;ul>
+&lt;li>☕️
+&lt;a href="https://paypal.me/cushen" target="_blank" rel="noopener">&lt;strong>Donate a coffee&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💵
+&lt;a href="https://www.patreon.com/cushen" target="_blank" rel="noopener">Become a backer on &lt;strong>Patreon&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🖼️
+&lt;a href="https://www.redbubble.com/people/neutreno/works/34387919-academic" target="_blank" rel="noopener">Decorate your laptop or journal with an Academic &lt;strong>sticker&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>👕
+&lt;a href="https://academic.threadless.com/" target="_blank" rel="noopener">Wear the &lt;strong>T-shirt&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>👩‍💻
+&lt;a href="https://sourcethemes.com/academic/docs/contribute/" target="_blank" rel="noopener">&lt;strong>Contribute&lt;/strong>&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;link rel="stylesheet" href=https://journalofaphd.github.io/css/hugo-easy-gallery.css />
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" />
+&lt;/div>
+&lt;a href="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>&lt;h4>Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>&lt;strong>Key features:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with
+&lt;a href="https://sourcethemes.com/academic/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and
+&lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
+&lt;li>&lt;strong>Create content&lt;/strong> in
+&lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>,
+&lt;a href="https://sourcethemes.com/academic/docs/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or
+&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-rstudio" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable
+&lt;a href="https://sourcethemes.com/academic/themes/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and
+&lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
+&lt;li>&lt;strong>Integrations&lt;/strong> -
+&lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>,
+&lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
+&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
+&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
+&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
+&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
+&lt;li>&lt;strong>Multi-language&lt;/strong> - 15+ language packs including English, 中文, and Português&lt;/li>
+&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
+&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
+&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
+&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;p>Academic comes with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the sun/moon icon in the top right of the
+&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
+&lt;p>
+&lt;a href="https://sourcethemes.com/academic/themes/" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully
+&lt;a href="https://sourcethemes.com/academic/docs/customization/#custom-theme" target="_blank" rel="noopener">customizable&lt;/a>.&lt;/p>
+&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>
+&lt;a href="https://github.com/sourcethemes/academic-admin" target="_blank" rel="noopener">Academic Admin&lt;/a>:&lt;/strong> An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li>
+&lt;li>&lt;strong>
+&lt;a href="https://github.com/sourcethemes/academic-scripts" target="_blank" rel="noopener">Academic Scripts&lt;/a>:&lt;/strong> Scripts to help migrate content to new versions of Academic&lt;/li>
+&lt;/ul>
+&lt;h2 id="install">Install&lt;/h2>
+&lt;p>You can choose from one of the following four methods to install:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-web-browser" target="_blank" rel="noopener">&lt;strong>one-click install using your web browser (recommended)&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-git" target="_blank" rel="noopener">install on your computer using &lt;strong>Git&lt;/strong> with the Command Prompt/Terminal app&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-zip" target="_blank" rel="noopener">install on your computer by downloading the &lt;strong>ZIP files&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-rstudio" target="_blank" rel="noopener">install on your computer with &lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Then
+&lt;a href="https://sourcethemes.com/academic/docs/get-started/" target="_blank" rel="noopener">personalize and deploy your new site&lt;/a>.&lt;/p>
+&lt;h2 id="updating">Updating&lt;/h2>
+&lt;p>
+&lt;a href="https://sourcethemes.com/academic/docs/update/" target="_blank" rel="noopener">View the Update Guide&lt;/a>.&lt;/p>
+&lt;p>Feel free to &lt;em>star&lt;/em> the project on
+&lt;a href="https://github.com/gcushen/hugo-academic/" target="_blank" rel="noopener">Github&lt;/a> to help keep track of
+&lt;a href="https://sourcethemes.com/academic/updates" target="_blank" rel="noopener">updates&lt;/a>.&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>Copyright 2016-present
+&lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
+&lt;p>Released under the
+&lt;a href="https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item></channel></rss>

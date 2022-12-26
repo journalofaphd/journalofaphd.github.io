@@ -1,4 +1,147 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sruthil | Journal of a Ph. D.</title><link>https://journalofaphd.github.io/author/sruthil/</link><atom:link href="https://journalofaphd.github.io/author/sruthil/index.xml" rel="self" type="application/rss+xml"/><description>Sruthil</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 01:00:00 +0000</lastBuildDate><image><url>https://journalofaphd.github.io/images/icon_hua2c43153bc111f15e6525a6607317778_4178726_512x512_fill_lanczos_center_3.png</url><title>Sruthil</title><link>https://journalofaphd.github.io/author/sruthil/</link></image><item><title>Celebrating First Paper Publication</title><link>https://journalofaphd.github.io/post/celebrating-first-paper/</link><pubDate>Tue, 29 Nov 2022 01:00:00 +0000</pubDate><guid>https://journalofaphd.github.io/post/celebrating-first-paper/</guid><description>&lt;h2 id="celebrating-small-wins">Celebrating Small Wins&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sruthil | Journal of a Ph. D.</title><link>https://journalofaphd.github.io/author/sruthil/</link><atom:link href="https://journalofaphd.github.io/author/sruthil/index.xml" rel="self" type="application/rss+xml"/><description>Sruthil</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 17:12:47 +0530</lastBuildDate><image><url>https://journalofaphd.github.io/images/icon_hua2c43153bc111f15e6525a6607317778_4178726_512x512_fill_lanczos_center_3.png</url><title>Sruthil</title><link>https://journalofaphd.github.io/author/sruthil/</link></image><item><title>Power Tools for discovering Papers that matter</title><link>https://journalofaphd.github.io/post/literature-power-tools/</link><pubDate>Sun, 11 Dec 2022 17:12:47 +0530</pubDate><guid>https://journalofaphd.github.io/post/literature-power-tools/</guid><description>&lt;h2 id="losing-yourself-in-the-sea-of-papers">Losing yourself in the sea of papers?&lt;/h2>
+&lt;p>Reading research papers is tough. What is even tougher is finding those papers that are more &amp;ldquo;relevant to us. I have had the terrible habit of forcefully reading papers from title to the last line of conclusion just before even deciding is it to keep or forgo. It was a time when I felt all papers are important for my work, and I should give it a read. With the pressure mounting to be on top of latest developments in your field I had signed up email alerts form almost all publishers in my field. Someone should tell us all the papers that hits your inbox as alerts are not going to matter for you. We will only need some of those thousands of papers that pour into your inbox.
+Unfortunately, things were not going according to plan. Quite soon, the newbie&amp;rsquo;s excitement of delving into the unknown jargons in the papers turned into exhaustion and desperation. I was slipping and losing to the sea of infromation. It is so easy to slip into the sea of information, not getting anywhere far from introduction of papers.&lt;/p>
+&lt;p>Here are some of the tools that will help you streamline the process of understanding the gist of papers without completely reading it.&lt;/p>
+&lt;h4 id="connected-papers">Connected papers&lt;/h4>
+&lt;!-- ![MarineGEO circle logo](featured.jpg "Paper Header printed on a Cup") -->
+&lt;p>To explore the connected papers in a visual graph
+Arrange papers based on their similarity.
+Sort prior works and derivative works&lt;/p>
+&lt;!--
+&lt;link rel="stylesheet" href=https://journalofaphd.github.io/css/hugo-easy-gallery.css />
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" data-size="1920x928">
+&lt;img itemprop="thumbnail" src="https://journalofaphd.github.io/connected_papers/connected_papers_1-thumb.jpg" alt="Sydney Harbour"/>
+&lt;/div>
+&lt;a href="https://journalofaphd.github.io/connected_papers/connected_papers_1.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sydney Harbour&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+-->
+&lt;p>
+&lt;div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('https://journalofaphd.github.io/img/connected_papers/connected_papers_1-thumb.jpg');" >
+&lt;img itemprop="thumbnail" src="https://journalofaphd.github.io/img/connected_papers/connected_papers_1-thumb.jpg" alt="Connected papers 1" />
+&lt;/div>
+&lt;figcaption>
+&lt;p>Connected papers 1&lt;/p>
+&lt;/figcaption>
+&lt;a href="https://journalofaphd.github.io/img/connected_papers/connected_papers_1.jpg" itemprop="contentUrl">&lt;/a>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('https://journalofaphd.github.io/img/connected_papers/connected_papers_2-thumb.jpg');" >
+&lt;img itemprop="thumbnail" src="https://journalofaphd.github.io/img/connected_papers/connected_papers_2-thumb.jpg" alt="Connected papers 2" />
+&lt;/div>
+&lt;figcaption>
+&lt;p>Connected papers 2&lt;/p>
+&lt;/figcaption>
+&lt;a href="https://journalofaphd.github.io/img/connected_papers/connected_papers_2.jpg" itemprop="contentUrl">&lt;/a>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous">&lt;/script>
+&lt;script src=https://journalofaphd.github.io/js/load-photoswipe.js>&lt;/script>
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous">&lt;/script>
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous">&lt;/script>
+&lt;div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+&lt;div class="pswp__bg">&lt;/div>
+&lt;div class="pswp__scroll-wrap">
+&lt;div class="pswp__container">
+&lt;div class="pswp__item">&lt;/div>
+&lt;div class="pswp__item">&lt;/div>
+&lt;div class="pswp__item">&lt;/div>
+&lt;/div>
+&lt;div class="pswp__ui pswp__ui--hidden">
+&lt;div class="pswp__top-bar">
+&lt;div class="pswp__counter">&lt;/div>
+&lt;button class="pswp__button pswp__button--close" title="Close (Esc)">&lt;/button>
+&lt;button class="pswp__button pswp__button--share" title="Share">&lt;/button>
+&lt;button class="pswp__button pswp__button--fs" title="Toggle fullscreen">&lt;/button>
+&lt;button class="pswp__button pswp__button--zoom" title="Zoom in/out">&lt;/button>
+&lt;div class="pswp__preloader">
+&lt;div class="pswp__preloader__icn">
+&lt;div class="pswp__preloader__cut">
+&lt;div class="pswp__preloader__donut">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+&lt;div class="pswp__share-tooltip">&lt;/div>
+&lt;/div>
+&lt;button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+&lt;/button>
+&lt;button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+&lt;/button>
+&lt;div class="pswp__caption">
+&lt;div class="pswp__caption__center">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/p>
+&lt;!--
+&lt;div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/connected_papers/connected_papers_1-thumb.jpg');" data-size="1920x928">
+&lt;img itemprop="thumbnail" src="https://journalofaphd.github.io/connected_papers/connected_papers_1-thumb.jpg" alt="Sydney Harbour"/>
+&lt;/div>
+&lt;a href="https://journalofaphd.github.io/connected_papers/connected_papers_1.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sydney Harbour&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img" style="background-image: url('/connected_papers/connected_papers_2-thumb.jpg');" data-size="1920x928">
+&lt;img itemprop="thumbnail" src="https://journalofaphd.github.io/connected_papers/connected_papers_2-thumb.jpg" alt="Sydney Harbour"/>
+&lt;/div>
+&lt;a href="https://journalofaphd.github.io/connected_papers/connected_papers_2.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sydney Harbour&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+-->
+&lt;h4 id="scite">Scite&lt;/h4>
+&lt;p>Smart Citations allow users to see how a publication has been cited by providing the context of the citation and a classification describing whether it provides supporting or contrasting evidence for the cited claim. Mentioning, supporting or contradicting the citing paper&lt;/p>
+&lt;div class="box fancy-figure caption-position-bottom caption-effect-appear" style="max-width:400px">
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://journalofaphd.github.io/img/connected_papers/connected_papers_2.jpg" alt="Sydney Harbour"/>
+&lt;/div>
+&lt;a href="https://journalofaphd.github.io/img/connected_papers/connected_papers_2.jpg" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>
+&lt;p>Sydney Harbour&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;h4 id="scholarcy-web-plugin">Scholarcy Web Plugin&lt;/h4>
+&lt;p>The AI-powered article summarizer - a quick snapshot and summary of every paer to figure out which one is the most important paper for you. More than what is given in the abstract and introduction- scholarcy give you contenxt without actually skimming through all of them.&lt;/p>
+&lt;h4 id="open-knowledge-map">Open Knowledge Map&lt;/h4>
+&lt;p>A Knowledge Map presents you with a topical overview for your search query based on the 100 most relevant documents matching your query.&lt;/p>
+&lt;p>We use text similarity to create the knowledge maps. The algorithm groups those documents together that have many words in common.&lt;/p>
+&lt;p>The visualization is intended to give you a head start on your scholarly search. You can identify relevant areas at a glance and documents related to them.&lt;/p>
+&lt;h4 id="incitefulxyz">Inciteful.xyz&lt;/h4>
+&lt;p>Build a network of academic papers and we&amp;rsquo;ll analyze the network to help you discover the most relevant literature.&lt;/p>
+&lt;p>Title, DOI, or even import a BibTeX file.
+Builds a graph of all connecte papers, similar papers, a list highlighting the most important papers in the graph, top authors and top journal that are part of the graph just generated.&lt;/p>
+&lt;h4 id="researchrabbit">Researchrabbit&lt;/h4>
+&lt;p>Organize them into collections and categories, sync seamlessley between zotero and researchrabbit&lt;/p>
+&lt;p>Add papers by any first deraching them with title, any identifier (DOI, PMID) or any keywords, uploading a BibTeX or RIS file, import your entire zotero collection&lt;/p>
+&lt;p>FIlter them based on connection with other cited or related wor, timeline, authors etc.&lt;/p></description></item><item><title>Celebrating First Paper Publication</title><link>https://journalofaphd.github.io/post/celebrating-first-paper/</link><pubDate>Tue, 29 Nov 2022 01:00:00 +0000</pubDate><guid>https://journalofaphd.github.io/post/celebrating-first-paper/</guid><description>&lt;h2 id="celebrating-small-wins">Celebrating Small Wins&lt;/h2>
 &lt;p>The paper went through countless revisions and many rejections before finding a venue for publication. As this work came to fruition, it brought significant personal and professional transformation—shoutouts to all who have been a part of this challenging but satisfying journey to fruition.&lt;/p>
 &lt;p>For the most part, I was battling self-doubt and writer’s block. Each time, I forced myself to read the draft one last time. By the hundredth time, I had learned my paper word by word by heart so that even embarrassing mistakes missed my eyes. Having seen no improvement, I lost interest many times and procrastinated. I re-challenged myself.&lt;/p>
 &lt;p>&lt;img src="paper_printed_cup.jpg" alt="MarineGEO circle logo" title="Paper Header printed on a Cup">
