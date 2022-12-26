@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PhD Life | Journal of a Ph. D.</title><link>https://journalofaphd.github.io/tag/phd-life/</link><atom:link href="https://journalofaphd.github.io/tag/phd-life/index.xml" rel="self" type="application/rss+xml"/><description>PhD Life</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 01:00:00 +0000</lastBuildDate><image><url>https://journalofaphd.github.io/images/icon_hua2c43153bc111f15e6525a6607317778_4178726_512x512_fill_lanczos_center_3.png</url><title>PhD Life</title><link>https://journalofaphd.github.io/tag/phd-life/</link></image><item><title>Celebrating First Paper Publication</title><link>https://journalofaphd.github.io/post/celebrating-first-paper/</link><pubDate>Tue, 29 Nov 2022 01:00:00 +0000</pubDate><guid>https://journalofaphd.github.io/post/celebrating-first-paper/</guid><description>&lt;h2 id="celebrating-small-wins">Celebrating Small Wins&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PhD Life | Journal of a Ph. D.</title><link>https://journalofaphd.github.io/tag/phd-life/</link><atom:link href="https://journalofaphd.github.io/tag/phd-life/index.xml" rel="self" type="application/rss+xml"/><description>PhD Life</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Dec 2022 17:12:47 +0530</lastBuildDate><image><url>https://journalofaphd.github.io/images/icon_hua2c43153bc111f15e6525a6607317778_4178726_512x512_fill_lanczos_center_3.png</url><title>PhD Life</title><link>https://journalofaphd.github.io/tag/phd-life/</link></image><item><title>Power Tools for discovering relevant literature</title><link>https://journalofaphd.github.io/post/literature-power-tools/</link><pubDate>Mon, 26 Dec 2022 17:12:47 +0530</pubDate><guid>https://journalofaphd.github.io/post/literature-power-tools/</guid><description>&lt;h2 id="losing-yourself-in-the-sea-of-papers">Losing yourself in the sea of papers?&lt;/h2>
+&lt;p>Reading research papers takes a lot of work. What is even more challenging is finding those papers that are more &amp;ldquo;relevant to us. I have had the terrible habit of forcefully reading papers from the title to the last line of the conclusion just before even deciding whether to keep or forgo them. It was a time when I felt all papers were necessary for my work and I should give it a read. With the pressure mounting to be on top of the latest developments, I signed up for email alerts from almost all publishers in the field. Someone should tell us all the papers that hit your inbox as alerts will not matter to you. We will only need some of those thousands of papers that pour into your inbox.
+Unfortunately, things were not going according to plan. Quite soon, the newbie&amp;rsquo;s excitement of delving into the unknown jargon in the papers turned into exhaustion and desperation. I was slipping and losing to the sea of information. It is easy to slip into the sea of information, not getting anywhere far from the introduction of papers.&lt;/p>
+&lt;p>&lt;strong>Here are some tools that will help you efficiently explore research literature, analyze their connections with other papers, asses their significance/relevance within the domain and get the gist of papers without thoroughly reading them.&lt;/strong> Let these tools do the heavy lifting for you.&lt;/p>
+&lt;h4 id="1-researchrabbithttpswwwresearchrabbitai">1.
+&lt;a href="https://www.researchrabbit.ai/" target="_blank" rel="noopener">Researchrabbit&lt;/a>&lt;/h4>
+&lt;p>Suppose you have one paper to start with and want to find some more relevant papers
+&lt;a href="https://www.researchrabbit.ai/" target="_blank" rel="noopener">&lt;strong>Research Rabbit&lt;/strong>&lt;/a> could be the best place. Start by searching them with a title, identifier (DOI, PMID) or keywords and add them to a collection. It is also possible to search for papers by uploading a BibTeX or RIS file. If you are a
+&lt;a href="https://www.zotero.org/" target="_blank" rel="noopener">&lt;strong>Zotero&lt;/strong>&lt;/a> user, you can also import your entire Zotero collection.
+&lt;a href="https://www.researchrabbit.ai/" target="_blank" rel="noopener">&lt;strong>Research Rabbit&lt;/strong>&lt;/a> will generate a list of papers in the form of similar works, references cited in the chosen paper, and all citations. Interestingly, it will also show you a connection map showing the interconnection between the papers you just added to your collection, &lt;strong>giving you the overall context of the literature&lt;/strong>.
+&lt;img src="researchrabbit.png" alt="Research Rabbit" title="Research Rabbit Interface">&lt;/p>
+&lt;p>
+&lt;a href="https://www.researchrabbit.ai/" target="_blank" rel="noopener">&lt;strong>Research Rabbit&lt;/strong>&amp;rsquo;s&lt;/a> suggestion engine will keep suggesting papers based on your collection. You can filter the suggestions based on connection with other cited or related works, timelines, authors etc. If you find some papers exciting or relevant to you, organize them into other collections and ignore the rest.&lt;/p>
+&lt;h4 id="2-connected-papers-httpswwwconnectedpaperscom">2.
+&lt;a href="https://www.connectedpapers.com/" target="_blank" rel="noopener">Connected papers &lt;/a>&lt;/h4>
+&lt;p>
+&lt;a href="https://www.connectedpapers.com/" target="_blank" rel="noopener">&lt;strong>Connected papers&lt;/strong>&lt;/a> is another tool that will help us explore the connected papers in a visual graph, arrange papers based on their similarity, and sort prior and derivative works.&lt;/p>
+&lt;p>&lt;img src="connected_papers.jpg" alt="Connected Papers" title="Connected Papers interface">&lt;/p>
+&lt;p>Similar to [&lt;strong>Research Rabbit&lt;/strong>](
+&lt;a href="https://www.researchrabbit.ai/" target="_blank" rel="noopener">https://www.researchrabbit.ai/&lt;/a>, we can start by searching for papers, and Connected Papers will do the rest for you. It will build a graph of connected papers; you can save them if you find them relevant.&lt;/p>
+&lt;h4 id="3-scitehttpssciteaihome">3.
+&lt;a href="https://scite.ai/home" target="_blank" rel="noopener">Scite&lt;/a>&lt;/h4>
+&lt;p>
+&lt;a href="https://scite.ai/home" target="_blank" rel="noopener">&lt;strong>Scite&lt;/strong>&lt;/a> is a &lt;em>smart citation&lt;/em> index that displays the context of citations and classifies their intent using deep learning. It categorizes citations based on context.
+&lt;a href="https://scite.ai/home" target="_blank" rel="noopener">&lt;strong>Scite&lt;/strong>&lt;/a> shows how a citation was used by highlighting text associated with the citation and classifies based on whether it provides supporting or contrasting evidence for a referenced work.
+&lt;img src="scite.png" alt="Scite" title="Scite User Interface">
+&lt;a href="https://scite.ai/home" target="_blank" rel="noopener">&lt;strong>Scite&lt;/strong>&lt;/a> has a web browser extension that how the research is cited anywhere, you are reading literature online.&lt;/p>
+&lt;!--
+#### Open Knowledge Map
+A Knowledge Map presents you with a topical overview for your search query based on the 100 most relevant documents matching your query.
+We use text similarity to create the knowledge maps. The algorithm groups those documents together that have many words in common.
+The visualization is intended to give you a head start on your scholarly search. You can identify relevant areas at a glance and documents related to them. -->
+&lt;h4 id="4-incitefulxyzhttpsincitefulxyz">4.
+&lt;a href="https://inciteful.xyz/" target="_blank" rel="noopener">Inciteful.xyz&lt;/a>&lt;/h4>
+&lt;p>
+&lt;a href="https://inciteful.xyz/" target="_blank" rel="noopener">Inciteful.xyz&lt;/a> helps to analyze the network of academic papers in a given collection to help you discover the most relevant literature. Start by adding papers to your collection by searching with title, DOI, or even importing a BibTeX file. Builds a graph of all connected papers, similar papers, a list highlighting the essential papers in the graph, top authors and top journals that are part of the graph just generated.
+&lt;img src="inciteful.png" alt="Inciteful.xyz" title="Inceiteful.xyz user interface">&lt;/p>
+&lt;!-- &lt;style>
+#callout {
+background: #0000000;
+padding: 1.5em 1.25em;
+border-radius: 3px;
+display: flex;
+flex-direction: row;
+margin-bottom: 20px;
+}
+#callout-inner {
+margin-left: 1em;
+}
+@media (max-width: 767px) {
+#callout {
+padding: 1.5em 0.75em 1.5em 0.6em;
+}
+#callout-inner {
+margin-left: 0.5em;
+}
+}
+&lt;/style>
+&lt;div id="callout" style="">
+&lt;div>💡&lt;/div>
+&lt;div id="callout-inner">
+All tools mentioned above will help us to sample relevant papers from a large pool of papers by establishing the connections between them. Next, how do we really undeerstand the content of those selected papers? Wouldn&amp;#39;t it be a lot more easier we can just do that without opening and reading all the papers?!! Well, Scholarcy is just for that.
+&lt;/div>
+&lt;/div>
+-->
+&lt;div class="alert alert-note">
+&lt;div>
+All tools mentioned above will help us to sample relevant papers from a large pool of papers by establishing the connections between them. Next, how do we understand the content of those selected papers? Wouldn&amp;rsquo;t it be easier to do that without opening and reading all the papers?!! Well, &lt;a href="https://www.scholarcy.com/">&lt;strong>Scholarcy&lt;/strong>&lt;/a> is just for that.
+&lt;/div>
+&lt;/div>
+&lt;h4 id="5-scholarcy-web-pluginhttpswwwscholarcycom">5.
+&lt;a href="https://www.scholarcy.com/" target="_blank" rel="noopener">Scholarcy Web Plugin&lt;/a>&lt;/h4>
+&lt;p>It is an AI-powered article summarizer. It provides a quick snapshot and summary of every paper to figure out which is the most important paper for you. Clicking the Scholarcy Web Plugin Scholarcy gives you the context without skimming through the paper. It gives you a synopsis of the work, highlights of the paper, and even a comparative analysis based on its content. You can save the time you otherwise take for reading the paper entirely for something more useful.
+&lt;img src="scholarcy.png" alt="Scholarcy" title="Scholarcy Web plugin">&lt;/p>
+&lt;p>Please try these tools and make them a part of your workflow. It will make your literature search less intimidating and tedious, making it exciting and fun.&lt;/p></description></item><item><title>Celebrating First Paper Publication</title><link>https://journalofaphd.github.io/post/celebrating-first-paper/</link><pubDate>Tue, 29 Nov 2022 01:00:00 +0000</pubDate><guid>https://journalofaphd.github.io/post/celebrating-first-paper/</guid><description>&lt;h2 id="celebrating-small-wins">Celebrating Small Wins&lt;/h2>
 &lt;p>The paper went through countless revisions and many rejections before finding a venue for publication. As this work came to fruition, it brought significant personal and professional transformation—shoutouts to all who have been a part of this challenging but satisfying journey to fruition.&lt;/p>
 &lt;p>For the most part, I was battling self-doubt and writer’s block. Each time, I forced myself to read the draft one last time. By the hundredth time, I had learned my paper word by word by heart so that even embarrassing mistakes missed my eyes. Having seen no improvement, I lost interest many times and procrastinated. I re-challenged myself.&lt;/p>
 &lt;p>&lt;img src="paper_printed_cup.jpg" alt="MarineGEO circle logo" title="Paper Header printed on a Cup">

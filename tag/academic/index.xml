@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Academic | Journal of a Ph. D.</title><link>https://journalofaphd.github.io/tag/academic/</link><atom:link href="https://journalofaphd.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml"/><description>Academic</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 01:00:00 +0000</lastBuildDate><image><url>https://journalofaphd.github.io/images/icon_hua2c43153bc111f15e6525a6607317778_4178726_512x512_fill_lanczos_center_3.png</url><title>Academic</title><link>https://journalofaphd.github.io/tag/academic/</link></image><item><title>Celebrating First Paper Publication</title><link>https://journalofaphd.github.io/post/celebrating-first-paper/</link><pubDate>Tue, 29 Nov 2022 01:00:00 +0000</pubDate><guid>https://journalofaphd.github.io/post/celebrating-first-paper/</guid><description>&lt;h2 id="celebrating-small-wins">Celebrating Small Wins&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Academic | Journal of a Ph. D.</title><link>https://journalofaphd.github.io/tag/academic/</link><atom:link href="https://journalofaphd.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml"/><description>Academic</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Dec 2022 17:12:47 +0530</lastBuildDate><image><url>https://journalofaphd.github.io/images/icon_hua2c43153bc111f15e6525a6607317778_4178726_512x512_fill_lanczos_center_3.png</url><title>Academic</title><link>https://journalofaphd.github.io/tag/academic/</link></image><item><title>Power Tools for discovering relevant literature</title><link>https://journalofaphd.github.io/post/literature-power-tools/</link><pubDate>Mon, 26 Dec 2022 17:12:47 +0530</pubDate><guid>https://journalofaphd.github.io/post/literature-power-tools/</guid><description>&lt;h2 id="losing-yourself-in-the-sea-of-papers">Losing yourself in the sea of papers?&lt;/h2>
+&lt;p>Reading research papers takes a lot of work. What is even more challenging is finding those papers that are more &amp;ldquo;relevant to us. I have had the terrible habit of forcefully reading papers from the title to the last line of the conclusion just before even deciding whether to keep or forgo them. It was a time when I felt all papers were necessary for my work and I should give it a read. With the pressure mounting to be on top of the latest developments, I signed up for email alerts from almost all publishers in the field. Someone should tell us all the papers that hit your inbox as alerts will not matter to you. We will only need some of those thousands of papers that pour into your inbox.
+Unfortunately, things were not going according to plan. Quite soon, the newbie&amp;rsquo;s excitement of delving into the unknown jargon in the papers turned into exhaustion and desperation. I was slipping and losing to the sea of information. It is easy to slip into the sea of information, not getting anywhere far from the introduction of papers.&lt;/p>
+&lt;p>&lt;strong>Here are some tools that will help you efficiently explore research literature, analyze their connections with other papers, asses their significance/relevance within the domain and get the gist of papers without thoroughly reading them.&lt;/strong> Let these tools do the heavy lifting for you.&lt;/p>
+&lt;h4 id="1-researchrabbithttpswwwresearchrabbitai">1.
+&lt;a href="https://www.researchrabbit.ai/" target="_blank" rel="noopener">Researchrabbit&lt;/a>&lt;/h4>
+&lt;p>Suppose you have one paper to start with and want to find some more relevant papers
+&lt;a href="https://www.researchrabbit.ai/" target="_blank" rel="noopener">&lt;strong>Research Rabbit&lt;/strong>&lt;/a> could be the best place. Start by searching them with a title, identifier (DOI, PMID) or keywords and add them to a collection. It is also possible to search for papers by uploading a BibTeX or RIS file. If you are a
+&lt;a href="https://www.zotero.org/" target="_blank" rel="noopener">&lt;strong>Zotero&lt;/strong>&lt;/a> user, you can also import your entire Zotero collection.
+&lt;a href="https://www.researchrabbit.ai/" target="_blank" rel="noopener">&lt;strong>Research Rabbit&lt;/strong>&lt;/a> will generate a list of papers in the form of similar works, references cited in the chosen paper, and all citations. Interestingly, it will also show you a connection map showing the interconnection between the papers you just added to your collection, &lt;strong>giving you the overall context of the literature&lt;/strong>.
+&lt;img src="researchrabbit.png" alt="Research Rabbit" title="Research Rabbit Interface">&lt;/p>
+&lt;p>
+&lt;a href="https://www.researchrabbit.ai/" target="_blank" rel="noopener">&lt;strong>Research Rabbit&lt;/strong>&amp;rsquo;s&lt;/a> suggestion engine will keep suggesting papers based on your collection. You can filter the suggestions based on connection with other cited or related works, timelines, authors etc. If you find some papers exciting or relevant to you, organize them into other collections and ignore the rest.&lt;/p>
+&lt;h4 id="2-connected-papers-httpswwwconnectedpaperscom">2.
+&lt;a href="https://www.connectedpapers.com/" target="_blank" rel="noopener">Connected papers &lt;/a>&lt;/h4>
+&lt;p>
+&lt;a href="https://www.connectedpapers.com/" target="_blank" rel="noopener">&lt;strong>Connected papers&lt;/strong>&lt;/a> is another tool that will help us explore the connected papers in a visual graph, arrange papers based on their similarity, and sort prior and derivative works.&lt;/p>
+&lt;p>&lt;img src="connected_papers.jpg" alt="Connected Papers" title="Connected Papers interface">&lt;/p>
+&lt;p>Similar to [&lt;strong>Research Rabbit&lt;/strong>](
+&lt;a href="https://www.researchrabbit.ai/" target="_blank" rel="noopener">https://www.researchrabbit.ai/&lt;/a>, we can start by searching for papers, and Connected Papers will do the rest for you. It will build a graph of connected papers; you can save them if you find them relevant.&lt;/p>
+&lt;h4 id="3-scitehttpssciteaihome">3.
+&lt;a href="https://scite.ai/home" target="_blank" rel="noopener">Scite&lt;/a>&lt;/h4>
+&lt;p>
+&lt;a href="https://scite.ai/home" target="_blank" rel="noopener">&lt;strong>Scite&lt;/strong>&lt;/a> is a &lt;em>smart citation&lt;/em> index that displays the context of citations and classifies their intent using deep learning. It categorizes citations based on context.
+&lt;a href="https://scite.ai/home" target="_blank" rel="noopener">&lt;strong>Scite&lt;/strong>&lt;/a> shows how a citation was used by highlighting text associated with the citation and classifies based on whether it provides supporting or contrasting evidence for a referenced work.
+&lt;img src="scite.png" alt="Scite" title="Scite User Interface">
+&lt;a href="https://scite.ai/home" target="_blank" rel="noopener">&lt;strong>Scite&lt;/strong>&lt;/a> has a web browser extension that how the research is cited anywhere, you are reading literature online.&lt;/p>
+&lt;!--
+#### Open Knowledge Map
+A Knowledge Map presents you with a topical overview for your search query based on the 100 most relevant documents matching your query.
+We use text similarity to create the knowledge maps. The algorithm groups those documents together that have many words in common.
+The visualization is intended to give you a head start on your scholarly search. You can identify relevant areas at a glance and documents related to them. -->
+&lt;h4 id="4-incitefulxyzhttpsincitefulxyz">4.
+&lt;a href="https://inciteful.xyz/" target="_blank" rel="noopener">Inciteful.xyz&lt;/a>&lt;/h4>
+&lt;p>
+&lt;a href="https://inciteful.xyz/" target="_blank" rel="noopener">Inciteful.xyz&lt;/a> helps to analyze the network of academic papers in a given collection to help you discover the most relevant literature. Start by adding papers to your collection by searching with title, DOI, or even importing a BibTeX file. Builds a graph of all connected papers, similar papers, a list highlighting the essential papers in the graph, top authors and top journals that are part of the graph just generated.
+&lt;img src="inciteful.png" alt="Inciteful.xyz" title="Inceiteful.xyz user interface">&lt;/p>
+&lt;!-- &lt;style>
+#callout {
+background: #0000000;
+padding: 1.5em 1.25em;
+border-radius: 3px;
+display: flex;
+flex-direction: row;
+margin-bottom: 20px;
+}
+#callout-inner {
+margin-left: 1em;
+}
+@media (max-width: 767px) {
+#callout {
+padding: 1.5em 0.75em 1.5em 0.6em;
+}
+#callout-inner {
+margin-left: 0.5em;
+}
+}
+&lt;/style>
+&lt;div id="callout" style="">
+&lt;div>💡&lt;/div>
+&lt;div id="callout-inner">
+All tools mentioned above will help us to sample relevant papers from a large pool of papers by establishing the connections between them. Next, how do we really undeerstand the content of those selected papers? Wouldn&amp;#39;t it be a lot more easier we can just do that without opening and reading all the papers?!! Well, Scholarcy is just for that.
+&lt;/div>
+&lt;/div>
+-->
+&lt;div class="alert alert-note">
+&lt;div>
+All tools mentioned above will help us to sample relevant papers from a large pool of papers by establishing the connections between them. Next, how do we understand the content of those selected papers? Wouldn&amp;rsquo;t it be easier to do that without opening and reading all the papers?!! Well, &lt;a href="https://www.scholarcy.com/">&lt;strong>Scholarcy&lt;/strong>&lt;/a> is just for that.
+&lt;/div>
+&lt;/div>
+&lt;h4 id="5-scholarcy-web-pluginhttpswwwscholarcycom">5.
+&lt;a href="https://www.scholarcy.com/" target="_blank" rel="noopener">Scholarcy Web Plugin&lt;/a>&lt;/h4>
+&lt;p>It is an AI-powered article summarizer. It provides a quick snapshot and summary of every paper to figure out which is the most important paper for you. Clicking the Scholarcy Web Plugin Scholarcy gives you the context without skimming through the paper. It gives you a synopsis of the work, highlights of the paper, and even a comparative analysis based on its content. You can save the time you otherwise take for reading the paper entirely for something more useful.
+&lt;img src="scholarcy.png" alt="Scholarcy" title="Scholarcy Web plugin">&lt;/p>
+&lt;p>Please try these tools and make them a part of your workflow. It will make your literature search less intimidating and tedious, making it exciting and fun.&lt;/p></description></item><item><title>Celebrating First Paper Publication</title><link>https://journalofaphd.github.io/post/celebrating-first-paper/</link><pubDate>Tue, 29 Nov 2022 01:00:00 +0000</pubDate><guid>https://journalofaphd.github.io/post/celebrating-first-paper/</guid><description>&lt;h2 id="celebrating-small-wins">Celebrating Small Wins&lt;/h2>
 &lt;p>The paper went through countless revisions and many rejections before finding a venue for publication. As this work came to fruition, it brought significant personal and professional transformation—shoutouts to all who have been a part of this challenging but satisfying journey to fruition.&lt;/p>
 &lt;p>For the most part, I was battling self-doubt and writer’s block. Each time, I forced myself to read the draft one last time. By the hundredth time, I had learned my paper word by word by heart so that even embarrassing mistakes missed my eyes. Having seen no improvement, I lost interest many times and procrastinated. I re-challenged myself.&lt;/p>
 &lt;p>&lt;img src="paper_printed_cup.jpg" alt="MarineGEO circle logo" title="Paper Header printed on a Cup">
@@ -18,116 +92,4 @@ If I had to pick a few things that transformed me personally and professionally,
 &lt;h2 id="putting-together-a-website-from-scratch">Putting together a website from scratch&lt;/h2>
 &lt;p>Setting up a personal website like this is not a difficult task nowadays. This site has been made using
 &lt;a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo&amp;rsquo;s&lt;/a> static website generator with no HTML coding. Like Hugo, many other frameworks exist, using which you can make stunning personal websites. I have used the
-&lt;a href="https://github.com/wowchemy/starter-hugo-academic" target="_blank" rel="noopener">academic theme for Hugo&lt;/a> for making this site. Once it is set up, a few lines of code will only take to host the site in GitHub. It is super easy. Why don&amp;rsquo;t you make one for yourself?!&lt;/p></description></item><item><title>Academic: the website builder for Hugo</title><link>https://journalofaphd.github.io/post/getting-started/</link><pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate><guid>https://journalofaphd.github.io/post/getting-started/</guid><description>&lt;p>&lt;strong>Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em>widgets&lt;/em>, &lt;em>themes&lt;/em>, and &lt;em>language packs&lt;/em> included!&lt;/strong>&lt;/p>
-&lt;p>
-&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or
-&lt;a href="https://sourcethemes.com/academic/#expo" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
-&lt;ul>
-&lt;li>👉
-&lt;a href="#install">&lt;strong>Get Started&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>📚
-&lt;a href="https://sourcethemes.com/academic/docs/" target="_blank" rel="noopener">View the &lt;strong>documentation&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>💬
-&lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Ask a question&lt;/strong> on the forum&lt;/a>&lt;/li>
-&lt;li>👥
-&lt;a href="https://spectrum.chat/academic" target="_blank" rel="noopener">Chat with the &lt;strong>community&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>🐦 Twitter:
-&lt;a href="https://twitter.com/source_themes" target="_blank" rel="noopener">@source_themes&lt;/a>
-&lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a>
-&lt;a href="https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd" target="_blank" rel="noopener">#MadeWithAcademic&lt;/a>&lt;/li>
-&lt;li>💡
-&lt;a href="https://github.com/gcushen/hugo-academic/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>⬆️ &lt;strong>Updating?&lt;/strong> View the
-&lt;a href="https://sourcethemes.com/academic/docs/update/" target="_blank" rel="noopener">Update Guide&lt;/a> and
-&lt;a href="https://sourcethemes.com/academic/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
-&lt;li>❤️ &lt;strong>Support development&lt;/strong> of Academic:
-&lt;ul>
-&lt;li>☕️
-&lt;a href="https://paypal.me/cushen" target="_blank" rel="noopener">&lt;strong>Donate a coffee&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>💵
-&lt;a href="https://www.patreon.com/cushen" target="_blank" rel="noopener">Become a backer on &lt;strong>Patreon&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>🖼️
-&lt;a href="https://www.redbubble.com/people/neutreno/works/34387919-academic" target="_blank" rel="noopener">Decorate your laptop or journal with an Academic &lt;strong>sticker&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>👕
-&lt;a href="https://academic.threadless.com/" target="_blank" rel="noopener">Wear the &lt;strong>T-shirt&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>👩‍💻
-&lt;a href="https://sourcethemes.com/academic/docs/contribute/" target="_blank" rel="noopener">&lt;strong>Contribute&lt;/strong>&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;link rel="stylesheet" href=https://journalofaphd.github.io/css/hugo-easy-gallery.css />
-&lt;div class="box" >
-&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-&lt;div class="img">
-&lt;img itemprop="thumbnail" src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" />
-&lt;/div>
-&lt;a href="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" itemprop="contentUrl">&lt;/a>
-&lt;figcaption>&lt;h4>Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&lt;/h4>
-&lt;/figcaption>
-&lt;/figure>
-&lt;/div>
-&lt;p>&lt;strong>Key features:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with
-&lt;a href="https://sourcethemes.com/academic/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and
-&lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
-&lt;li>&lt;strong>Create content&lt;/strong> in
-&lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>,
-&lt;a href="https://sourcethemes.com/academic/docs/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or
-&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-rstudio" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable
-&lt;a href="https://sourcethemes.com/academic/themes/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and
-&lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
-&lt;li>&lt;strong>Integrations&lt;/strong> -
-&lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>,
-&lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
-&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
-&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
-&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
-&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
-&lt;li>&lt;strong>Multi-language&lt;/strong> - 15+ language packs including English, 中文, and Português&lt;/li>
-&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
-&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
-&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
-&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
-&lt;/ul>
-&lt;h2 id="themes">Themes&lt;/h2>
-&lt;p>Academic comes with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the sun/moon icon in the top right of the
-&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
-&lt;p>
-&lt;a href="https://sourcethemes.com/academic/themes/" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully
-&lt;a href="https://sourcethemes.com/academic/docs/customization/#custom-theme" target="_blank" rel="noopener">customizable&lt;/a>.&lt;/p>
-&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>
-&lt;a href="https://github.com/sourcethemes/academic-admin" target="_blank" rel="noopener">Academic Admin&lt;/a>:&lt;/strong> An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li>
-&lt;li>&lt;strong>
-&lt;a href="https://github.com/sourcethemes/academic-scripts" target="_blank" rel="noopener">Academic Scripts&lt;/a>:&lt;/strong> Scripts to help migrate content to new versions of Academic&lt;/li>
-&lt;/ul>
-&lt;h2 id="install">Install&lt;/h2>
-&lt;p>You can choose from one of the following four methods to install:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-web-browser" target="_blank" rel="noopener">&lt;strong>one-click install using your web browser (recommended)&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-git" target="_blank" rel="noopener">install on your computer using &lt;strong>Git&lt;/strong> with the Command Prompt/Terminal app&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-zip" target="_blank" rel="noopener">install on your computer by downloading the &lt;strong>ZIP files&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-rstudio" target="_blank" rel="noopener">install on your computer with &lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Then
-&lt;a href="https://sourcethemes.com/academic/docs/get-started/" target="_blank" rel="noopener">personalize and deploy your new site&lt;/a>.&lt;/p>
-&lt;h2 id="updating">Updating&lt;/h2>
-&lt;p>
-&lt;a href="https://sourcethemes.com/academic/docs/update/" target="_blank" rel="noopener">View the Update Guide&lt;/a>.&lt;/p>
-&lt;p>Feel free to &lt;em>star&lt;/em> the project on
-&lt;a href="https://github.com/gcushen/hugo-academic/" target="_blank" rel="noopener">Github&lt;/a> to help keep track of
-&lt;a href="https://sourcethemes.com/academic/updates" target="_blank" rel="noopener">updates&lt;/a>.&lt;/p>
-&lt;h2 id="license">License&lt;/h2>
-&lt;p>Copyright 2016-present
-&lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
-&lt;p>Released under the
-&lt;a href="https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item></channel></rss>
+&lt;a href="https://github.com/wowchemy/starter-hugo-academic" target="_blank" rel="noopener">academic theme for Hugo&lt;/a> for making this site. Once it is set up, a few lines of code will only take to host the site in GitHub. It is super easy. Why don&amp;rsquo;t you make one for yourself?!&lt;/p></description></item></channel></rss>
