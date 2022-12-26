@@ -20,6 +20,7 @@ copyright = ""
 ############################
 
 # Name of Academic theme folder in `themes/`.
+# theme = "academic"
 theme = "academic"
 
 # Get last modified date for content from Git?
@@ -104,4 +105,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   [[related.indices]]
     name = "authors"
     weight = 20.0
-
