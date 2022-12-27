@@ -5,7 +5,7 @@ title: "Power Tools for discovering relevant literature"
 subtitle: "Apparently, discovering literature is not so intimidating and tedious with these tools!"
 summary: "Not all papers you come across are going to be useful to you. Here are some tools that will help you efficiently explore research literature, analyze their connections with other papers, asses their significance/relevance within the domain and get the gist of papers without thoroughly reading them."
 authors:
-  - Sruthil
+- sruthil-lal-sb
 tags:
   - Academic
   - PhD Life

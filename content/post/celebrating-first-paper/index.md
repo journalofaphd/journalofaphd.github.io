@@ -37,7 +37,7 @@ image:
   preview_only: false
 
 authors:
-  - Sruthil
+- sruthil-lal-sb
 
 tags:
   - Academic
